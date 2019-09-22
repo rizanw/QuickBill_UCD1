@@ -1,0 +1,45 @@
+Supervisor
+minimarket betamart
+stok air
+
+stok
+harga
+kasir
+pembeli
+quickbill
+id
+password
+menu “stock”
+nama barang
+air
+barang
+menu “cashier”
+nomor identitas
+telepon
+alamat
+akses quickbill
+
+uc1
+supervisor
+data barang
+quickbill
+
+uc2
+supervisor
+data kasir
+quickbill
+
+uc3
+kasir
+data transaksi
+quickbill
+
+uc4
+kasir
+data barang
+quickbill
+
+uc5
+kasir
+data transaksi
+quickbill
